@@ -14,3 +14,4 @@ start = dt.datetime(2019, 6, 1)
 end = dt.datetime(2020, 5, 1)
 
 company_stock(company_code, start, end)
+
